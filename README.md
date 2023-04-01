@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **jonathandedman@googlemail.com**
 
+-  🦾 **linkedin.com/in/jon-dedman**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
