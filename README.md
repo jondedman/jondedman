@@ -24,10 +24,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jondedman&show_icons=true&locale=en&layout=compact" alt="jondedman" /></p>
 
+<p align="left">
+</p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jondedman&show_icons=true&locale=en" alt="jondedman" /></p>
-<br>
-<br>
+<p align="left">
+</p>
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jondedman&" alt="jondedman" /></p>
