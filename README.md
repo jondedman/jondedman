@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jonathandedman@googlemail.com**
 
--  🦾 ([www./in/jon-dedman**](https://www.linkedin.com/in/jonathan-dedman-b6780a58)]
+-  🦾 ([Linkedin](https://www.linkedin.com/in/jonathan-dedman-b6780a58)]
 
 
 <p align="left">
