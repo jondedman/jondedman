@@ -8,11 +8,13 @@
 
 - 🌱 I’m currently learning **Python, Javascript, React**
 
+<h3 align="left">Connect with me:</h3> 🫲
+
 - 📫 How to reach me **jonathandedman@googlemail.com**
 
--  🦾 **linkedin.com/in/jon-dedman**
+-  🦾 ([www./in/jon-dedman**](https://www.linkedin.com/in/jonathan-dedman-b6780a58)]
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
