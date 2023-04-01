@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jondedman&label=Profile%20views&color=0e75b6&style=flat" alt="jondedman" /> </p>
 
 
--------------------------------------------------------------------------------------------------------------------------------
+
 | 🔭 I’m currently working on [What can I eat](www.whatcanieat.world) 🌱 I’m currently learning **Python, Javascript, React** |
 --------------------------------------------------------------------------------------------------------------------------------
 
