@@ -5,8 +5,8 @@
 
 
 | 🔭 I’m currently working on [What can I eat](www.whatcanieat.world) | 🌱 I’m currently learning **Python, Javascript, React** |
+---------------------------------------------------------------------------------------------------------------------------------
 
-- 
 
 - 📫 How to reach me **jonathandedman@googlemail.com**
 
