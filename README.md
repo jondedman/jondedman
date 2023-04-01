@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jondedman" alt="jondedman" /></a> </p>
 
-- 🔭 I’m currently working on [What can I eat](www.whatcanieat.world)
+
 
 - 🌱 I’m currently learning **Python, Javascript, React**
 
