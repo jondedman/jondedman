@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jon</h1>
 <h3 align="center">A passionate full-stack developer and musician.</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)" width="100"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jondedman&label=Profile%20views&color=0e75b6&style=flat" alt="jondedman" /> </p>
