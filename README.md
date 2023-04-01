@@ -5,9 +5,6 @@
 
 
 
-
-- 🌱 I’m currently learning **Python, Javascript, React**
-
 <h3 align="left">Connect with me 🫲:</h3> 
 
 - 📫 How to reach me **jonathandedman@googlemail.com**
@@ -18,7 +15,7 @@
 <p align="left">
 </p>
 
-
+- 🌱 I’m currently learning **Python, Javascript, React**
 
 <h3 align="left">Languages and Tools:</h3>
 
