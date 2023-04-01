@@ -4,15 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jondedman&label=Profile%20views&color=0e75b6&style=flat" alt="jondedman" /> </p>
 
 
+-------------------------------------------------------------------------------------------------------------------------------
+| 🔭 I’m currently working on [What can I eat](www.whatcanieat.world) 🌱 I’m currently learning **Python, Javascript, React** |
 --------------------------------------------------------------------------------------------------------------------------------
-| 🔭 I’m currently working on [What can I eat](www.whatcanieat.world)  🌱 I’m currently learning **Python, Javascript, React** |
----------------------------------------------------------------------------------------------------------------------------------
 
 
 - 📫 How to reach me **jonathandedman@googlemail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
