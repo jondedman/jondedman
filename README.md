@@ -1,5 +1,5 @@
 <h1>
-  hey there, I'm Jon A passionate full-stack developer and musician
+  Hey there, I'm Jon - A passionate full-stack developer and musician
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -21,6 +21,8 @@
 
 - 🔭 I’m currently working on [What can I eat](www.whatcanieat.world)
 -  🌱 I’m currently learning **Python, Javascript, React** 
+-  I love solving coding challenges
+-  I love playing the guitar
 
 
 
