@@ -25,9 +25,9 @@
 -  I love playing the guitar
 
 
---
+---
 - 📫 How to reach me **jonathandedman@googlemail.com**
-
+---
 
 </p>
 
