@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on [What can I eat](www.whatcanieat.world)
+- 🔭 I’m currently working on [What can I eat](http://www.whatcanieat.world)
 -  🌱 I’m currently learning **Python, Javascript, React** 
 -  I love solving coding challenges
 -  I love playing the guitar
