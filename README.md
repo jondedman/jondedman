@@ -19,7 +19,7 @@
 ### :man_technologist: About Me :
 
 - 🔭 I’m currently working on a booking system for RD Autos
--  🌱 I’m currently learning **React** 
+-  🌱 I’m currently learning **Python** 
 -  I love solving coding challenges
 -  I love playing the guitar
 
