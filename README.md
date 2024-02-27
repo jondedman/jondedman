@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently finishing a booking system for RD Autos
+- 🔭 I’m currently working on my portfoilio site
 -  🌱 I’m currently refining **Python** 
 -  I love solving coding challenges
 -  I love playing the guitar
