@@ -22,7 +22,7 @@
 -  🌱 I’m currently refining **Ruby**
 -  I love creating apps and realising ideas with code
 -  I love playing the guitar
--  ![CodeWars Badge]("https://www.codewars.com/users/jonnyonenote/badges/small")
+-  ![CodeWars Badge]"https://www.codewars.com/users/jonnyonenote/badges/small)
 
 
 ---
