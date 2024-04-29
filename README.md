@@ -18,10 +18,11 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on my portfoilio site
--  🌱 I’m currently refining **Python** 
--  I love solving coding challenges
+- 🔭 I’m currently working on a site for Queen Mary University
+-  🌱 I’m currently refining **Ruby**
+-  I love creating apps and realising ideas with code
 -  I love playing the guitar
+-  https://www.codewars.com/users/jonnyonenote/badges/small
 
 
 ---
