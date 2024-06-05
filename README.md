@@ -18,8 +18,8 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on a site for Queen Mary University
--  🌱 I’m currently refining **Ruby**
+- 🔭 I’m currently working on a chrome extension for Queen Mary University
+-  🌱 I’m currently refining **Python**
 -  I love creating apps and realising ideas with code
 -  I love playing the guitar
 -  ![CodeWars Badge](https://www.codewars.com/users/jonnyonenote/badges/small)
