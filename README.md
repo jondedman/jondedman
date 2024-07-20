@@ -18,8 +18,8 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on a chrome extension for Queen Mary University
--  🌱 I’m currently refining **Python**
+- 🔭 I’m currently contributing to the SEAL project.
+-  🌱 I’m currently learning TypeScript Data Structures and Algorithms.
 -  I love creating apps and realising ideas with code
 -  I love playing the guitar
 -  ![CodeWars Badge](https://www.codewars.com/users/jonnyonenote/badges/small)
