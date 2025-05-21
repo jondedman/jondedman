@@ -5,7 +5,8 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pzZ2xybGdhdmV2ZjM0YXlvaXliNzhxczVvcjVlcTFxbWYwNjNtcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xoicctrOv5aGw6mCZi/giphy.gif"/>
+
 </div>
 <div id="badges">
     <a href="https://linkedin.com/in/jon-dedman">
