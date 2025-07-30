@@ -19,8 +19,8 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently contributing to the SEAL project.
--  🌱 I’m currently learning TypeScript Data Structures and Algorithms.
+- 🔭 I’m currently an apprentice junior developer with EY and Makers.
+-  🌱 I’m currently on the Makers bootcamp.
 -  I love creating apps and realising ideas with code
 -  I love playing the guitar
 -  ![CodeWars Badge](https://www.codewars.com/users/jonnyonenote/badges/small)
